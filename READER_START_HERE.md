@@ -7,7 +7,7 @@ Welcome to **Surviving Florida**. Use this short path to enter Palm Haven withou
 - [ ] Open the [official Surviving Florida website](https://crowncity9.github.io/Surviving-Florida/).
 - [ ] Read the book introduction on the [official book page](https://crowncity9.github.io/Surviving-Florida/book.html).
 - [ ] Start [Chapter One](https://crowncity9.github.io/Surviving-Florida/read.html#chapter-1).
-- [ ] Open the chapter menu and confirm Chapters 1–21 are available.
+- [ ] Open the chapter menu and confirm the Chapters 1–3 free preview is available.
 - [ ] Choose a comfortable text size and reading theme. Your preferences will be saved on your device.
 
 ## While reading
@@ -20,7 +20,8 @@ Welcome to **Surviving Florida**. Use this short path to enter Palm Haven withou
 ## After reading
 
 - [ ] Visit the [publishing center](https://crowncity9.github.io/Surviving-Florida/publishing.html).
-- [ ] [Buy the Kindle edition on Amazon](https://a.co/d/052sfbvp).
+- [ ] [Buy the Kindle edition on Amazon](https://www.amazon.com/dp/B0HGKL1WRP).
+- [ ] Download the [complete Word manuscript](assets/downloads/Surviving_Florida_Manuscript_RRF.docx) if you prefer the editable edition.
 - [ ] Download the [complete PDF manuscript](assets/downloads/Surviving_Florida_Manuscript.pdf) if you prefer offline reading.
 - [ ] Download the [official character roster](assets/downloads/Surviving_Florida_Official_Character_Roster.pdf) as a reference guide.
 - [ ] Share the official website rather than redistributing the book files.
