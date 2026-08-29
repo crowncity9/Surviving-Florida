@@ -1,1 +1,1 @@
-window.SF_SITE={amazonUrl:"AMAZON_LINK_NEEDED",freeChapters:3};
+window.SF_SITE={amazonUrl:"https://www.amazon.com/dp/B0HGKL1WRP",freeChapters:3};
