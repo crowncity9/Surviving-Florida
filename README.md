@@ -2,7 +2,7 @@
 
 **Surviving Florida** is an urban crime drama by **RRF**, set in Palm Haven, Florida—a city shaped by loyalty, corruption, family, and survival.
 
-[Visit the official website](https://crowncity9.github.io/Surviving-Florida/) · [Start Chapter One](https://crowncity9.github.io/Surviving-Florida/read.html#chapter-1) · [Buy on Amazon](https://a.co/d/052sfbvp)
+[Visit the official website](https://crowncity9.github.io/Surviving-Florida/) · [Start Chapter One](https://crowncity9.github.io/Surviving-Florida/read.html#chapter-1) · [Buy on Amazon](https://www.amazon.com/dp/B0HGKL1WRP)
 
 ## Start here
 
@@ -15,7 +15,7 @@
 ## What is included
 
 - Official responsive website
-- Complete Chapters 1–21 browser reader
+- Free Chapters 1–3 browser preview
 - 56-character profile archive
 - Six featured Palm Haven locations
 - Complete manuscript in PDF and Microsoft Word formats
