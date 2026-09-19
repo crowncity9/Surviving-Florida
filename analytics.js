@@ -1,20 +1,8 @@
 (() => {
-  const measurementId = 'G-B72CP1K0YG';
-
   window.dataLayer = window.dataLayer || [];
   window.gtag = window.gtag || function () {
     window.dataLayer.push(arguments);
   };
-
-  window.gtag('js', new Date());
-  window.gtag('config', measurementId, {
-    anonymize_ip: true
-  });
-
-  const tag = document.createElement('script');
-  tag.async = true;
-  tag.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(measurementId)}`;
-  document.head.appendChild(tag);
 
   window.sfTrack = (eventName, parameters = {}) => {
     window.gtag('event', eventName, parameters);
