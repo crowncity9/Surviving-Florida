@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2K97JZ8XTS"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-2K97JZ8XTS');
+  </script>
+  <script src="/Surviving-Florida/analytics.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Surviving Florida — Launch Dashboard</title>
+  <meta name="description" content="Public launch-performance snapshot for Surviving Florida: readers, chapters, character profiles, and Amazon purchase intent.">
+  <meta name="theme-color" content="#070708">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://crowncity9.github.io/Surviving-Florida/dashboard.html">
+  <link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+  <header class="site-nav">
+    <a class="brand" href="index.html"><span>SF</span>SURVIVING FLORIDA</a>
+    <nav><a href="index.html">Universe</a><a href="read.html">Preview</a><a href="characters.html">Profiles</a><a href="publishing.html">Get the Book</a></nav>
+  </header>
+
+  <main>
+    <section class="dashboard-hero">
+      <p class="eyebrow">Public launch dashboard</p>
+      <h1>THE STORY<br><em>IN MOTION.</em></h1>
+      <p class="intro">A transparent snapshot of how readers are exploring Palm Haven—from first page view to Amazon purchase intent.</p>
+      <div class="source-line"><span class="pulse" aria-hidden="true"></span><strong>GA4: G-2K97JZ8XTS</strong><span id="updatedThrough"></span></div>
+    </section>
+
+    <section class="dashboard" aria-labelledby="scorecardTitle">
+      <div class="section-head"><div><p class="eyebrow">Launch scorecard</p><h2 id="scorecardTitle">READERS TO <em>INTENT</em></h2></div><p>Early launch-test traffic. Direction is more useful than benchmarks at this sample size.</p></div>
+      <div class="kpis" id="kpis"></div>
+
+      <div class="panel-grid">
+        <section class="panel" aria-labelledby="funnelTitle"><p class="eyebrow">Reader journey</p><h3 id="funnelTitle">EVENT FUNNEL</h3><div id="funnel" class="funnel"></div></section>
+        <section class="panel" aria-labelledby="healthTitle"><p class="eyebrow">Launch health</p><h3 id="healthTitle">QUALITY SIGNALS</h3><dl id="health" class="health"></dl></section>
+      </div>
+
+      <section class="panel activity" aria-labelledby="activityTitle"><div><p class="eyebrow">Daily activity</p><h3 id="activityTitle">LAUNCH TREND</h3></div><div id="daily" class="daily" role="img" aria-label="Daily views and active users"></div></section>
+
+      <section class="live-report" id="liveReport" hidden aria-labelledby="liveTitle"><div class="section-head"><div><p class="eyebrow">Live report</p><h2 id="liveTitle">LOOKER STUDIO</h2></div><a id="liveReportLink" class="button" href="#" target="_blank" rel="noopener">Open report</a></div><iframe id="lookerFrame" title="Surviving Florida live launch dashboard" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></section>
+
+      <aside class="definition"><strong>Measurement note</strong><p>Amazon clicks are purchase intent, not confirmed sales. Confirmed purchases and revenue are not available in GA4 without Amazon attribution data.</p></aside>
+    </section>
+  </main>
+
+  <footer><a class="brand" href="index.html"><span>SF</span>SURVIVING FLORIDA</a><p>Public launch snapshot • © 2026 RRF</p></footer>
+  <script src="dashboard-data.js"></script>
+  <script src="dashboard.js"></script>
+</body>
+</html>
